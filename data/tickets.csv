@@ -1,0 +1,241 @@
+text,category,priority
+Can I change the delivery address for ORD-1001.,shipping,medium
+"When you have time, My package ORD-1001 has not arrived after two weeks. No hurry at all.",shipping,low
+I need help immediately. The mobile app freezes on the login screen. I am very frustrated.,technical,high
+Push notifications stopped working on my phone.,technical,medium
+"This is urgent, Where is my order ORD-1000. This is unacceptable.",shipping,high
+"Hi team, I was billed after I cancelled my plan. Please advise.",billing,medium
+"Hi, Push notifications stopped working on my phone. Thanks.",technical,medium
+"Hello, Please explain the charge of $99 on my invoice. Please advise.",billing,medium
+Quick question: How can I enable two factor authentication. Appreciate it.,account,low
+"Hi, Where is my order ORD-1000.",shipping,medium
+"When you have time, My package ORD-1002 has not arrived after two weeks. No hurry at all.",shipping,low
+"When you have time, How do I change the email address on my account. Appreciate it.",account,low
+"Hi team, When will order ORD-1004 be delivered.",shipping,medium
+"Hi team, I was charged twice for my Pro subscription. Please advise.",billing,medium
+"This is urgent, Where is my order ORD-1004. This is unacceptable.",shipping,high
+"This is urgent, Can I change the delivery address for ORD-1004. I need this fixed today.",shipping,high
+"Hi, Exporting to CSV fails with a timeout. Please advise.",technical,medium
+URGENT: The mobile app freezes on the login screen. I need this fixed today.,technical,high
+"Hi team, My package ORD-1000 has not arrived after two weeks. Please advise.",shipping,medium
+"Hi team, The mobile app freezes on the login screen. Thanks.",technical,medium
+I get error E500 when I try to sync my data. Thanks.,technical,medium
+Critical issue: Exporting to CSV fails with a timeout. I need this fixed today.,technical,high
+"This is urgent, My invoice shows the wrong amount. I am very frustrated.",billing,high
+I need help immediately. The mobile app freezes on the login screen. I need this fixed today.,technical,high
+"Hello, My package ORD-1000 has not arrived after two weeks.",shipping,medium
+Quick question: I received the wrong item in order ORD-1003. Thanks in advance!,shipping,low
+"Hi team, I get error E1002 when I try to sync my data.",technical,medium
+Critical issue: I received the wrong item in order ORD-1002. I am very frustrated.,shipping,high
+URGENT: Can I get a receipt for my last payment. This is unacceptable.,billing,high
+"Hi team, Push notifications stopped working on my phone.",technical,medium
+"Hi, My account is locked after too many login attempts.",account,medium
+"This is urgent, When will order ORD-1003 be delivered. This is unacceptable.",shipping,high
+URGENT: Can I change the delivery address for ORD-1002. I am very frustrated.,shipping,high
+"Hi team, I get error E1002 when I try to sync my data.",technical,medium
+"Hi team, I cannot log in to my account. Thanks.",account,medium
+"Just curious, I was billed after I cancelled my plan. Appreciate it.",billing,low
+"No rush, How do I update the credit card on my billing profile. No hurry at all.",billing,low
+"Just curious, Can I get a receipt for my last payment. No hurry at all.",billing,low
+"This is urgent, How do I change the email address on my account. I need this fixed today.",account,high
+"When you have time, Push notifications stopped working on my phone. Thanks in advance!",technical,low
+"Hello, I was charged twice for my Pro subscription. Please advise.",billing,medium
+"No rush, Push notifications stopped working on my phone. Thanks in advance!",technical,low
+"Hi, My invoice shows the wrong amount. Thanks.",billing,medium
+"When you have time, Can I get a receipt for my last payment. Appreciate it.",billing,low
+Quick question: Exporting to CSV fails with a timeout. Thanks in advance!,technical,low
+"When you have time, Please explain the charge of $19 on my invoice. Appreciate it.",billing,low
+I was charged twice for my Pro subscription. Please advise.,billing,medium
+URGENT: Please explain the charge of $19 on my invoice. I am very frustrated.,billing,high
+"Hello, Please explain the charge of $99 on my invoice. Please advise.",billing,medium
+"Just curious, How do I update my profile name. Thanks in advance!",account,low
+URGENT: The mobile app freezes on the login screen. I need this fixed today.,technical,high
+"Hi, The tracking for ORD-1004 has not updated in days. Thanks.",shipping,medium
+I forgot my password and the reset email never arrives.,account,medium
+Critical issue: Please explain the charge of $19 on my invoice. I am very frustrated.,billing,high
+"Hi, I get error E1002 when I try to sync my data. Thanks.",technical,medium
+"Hi, Please explain the charge of $99 on my invoice. Thanks.",billing,medium
+I need help immediately. Please explain the charge of $49 on my invoice. This is unacceptable.,billing,high
+"Hello, How do I update my profile name. Please advise.",account,medium
+"Just curious, My account is locked after too many login attempts. Thanks in advance!",account,low
+"Hi, I get error E401 when I try to sync my data. Please advise.",technical,medium
+I need help immediately. Exporting to CSV fails with a timeout. I am very frustrated.,technical,high
+"No rush, When will order ORD-1003 be delivered. No hurry at all.",shipping,low
+I was charged twice for my Basic subscription. Please advise.,billing,medium
+I need help immediately. How do I change the email address on my account. I am very frustrated.,account,high
+"Just curious, Where is my order ORD-1000. No hurry at all.",shipping,low
+URGENT: I was charged twice for my Pro subscription. I am very frustrated.,billing,high
+The tracking for ORD-1002 has not updated in days. Thanks.,shipping,medium
+"When you have time, How do I change the email address on my account. No hurry at all.",account,low
+Critical issue: I cannot log in to my account. I need this fixed today.,account,high
+"Just curious, My account is locked after too many login attempts. Thanks in advance!",account,low
+I need help immediately. How do I update my profile name. I am very frustrated.,account,high
+"Hello, I get error E500 when I try to sync my data.",technical,medium
+"Hi, Where is my order ORD-1000. Please advise.",shipping,medium
+"No rush, Please explain the charge of $19 on my invoice. Thanks in advance!",billing,low
+URGENT: How can I enable two factor authentication. I am very frustrated.,account,high
+"Just curious, When will order ORD-1000 be delivered. Appreciate it.",shipping,low
+"Just curious, How do I change the email address on my account. Appreciate it.",account,low
+"Hello, The tracking for ORD-1000 has not updated in days. Please advise.",shipping,medium
+I need help immediately. How do I update the credit card on my billing profile. I need this fixed today.,billing,high
+My package ORD-1003 has not arrived after two weeks. Thanks.,shipping,medium
+I need help immediately. Please explain the charge of $49 on my invoice. I need this fixed today.,billing,high
+Critical issue: I was billed after I cancelled my plan. This is unacceptable.,billing,high
+"This is urgent, When will order ORD-1003 be delivered. This is unacceptable.",shipping,high
+"Hello, Can I get a receipt for my last payment. Thanks.",billing,medium
+"This is urgent, How do I change the email address on my account. I am very frustrated.",account,high
+I need help immediately. The app crashes every time I open the settings page. I am very frustrated.,technical,high
+"This is urgent, I was billed after I cancelled my plan. This is unacceptable.",billing,high
+"When you have time, Where is my order ORD-1004. Appreciate it.",shipping,low
+"Hi team, How do I change the email address on my account.",account,medium
+"This is urgent, Push notifications stopped working on my phone. I am very frustrated.",technical,high
+Quick question: The mobile app freezes on the login screen. No hurry at all.,technical,low
+"Hi team, How do I update the credit card on my billing profile. Please advise.",billing,medium
+URGENT: I was billed after I cancelled my plan. I am very frustrated.,billing,high
+Critical issue: Can I get a receipt for my last payment. I need this fixed today.,billing,high
+Critical issue: Where is my order ORD-1002. I am very frustrated.,shipping,high
+"This is urgent, I get error E1002 when I try to sync my data. This is unacceptable.",technical,high
+"Hello, How do I update the credit card on my billing profile. Thanks.",billing,medium
+"Hi, Can I change the delivery address for ORD-1000. Thanks.",shipping,medium
+Quick question: Exporting to CSV fails with a timeout. Appreciate it.,technical,low
+Critical issue: Exporting to CSV fails with a timeout. This is unacceptable.,technical,high
+The tracking for ORD-1002 has not updated in days. Please advise.,shipping,medium
+"Just curious, How do I update my profile name. Appreciate it.",account,low
+I need help immediately. How do I update my profile name. This is unacceptable.,account,high
+"When you have time, My invoice shows the wrong amount. No hurry at all.",billing,low
+"This is urgent, My account is locked after too many login attempts. I am very frustrated.",account,high
+"When you have time, The app crashes every time I open the settings page. Appreciate it.",technical,low
+"Hi, My package ORD-1001 has not arrived after two weeks.",shipping,medium
+"Hi team, I cannot log in to my account. Please advise.",account,medium
+"No rush, I get error E401 when I try to sync my data. No hurry at all.",technical,low
+When will order ORD-1000 be delivered.,shipping,medium
+URGENT: Exporting to CSV fails with a timeout. I need this fixed today.,technical,high
+"Hi, The dashboard is not loading for me. Please advise.",technical,medium
+"No rush, How can I enable two factor authentication. Appreciate it.",account,low
+Quick question: The mobile app freezes on the login screen. Thanks in advance!,technical,low
+"When you have time, Where is my order ORD-1001. Appreciate it.",shipping,low
+Exporting to CSV fails with a timeout. Please advise.,technical,medium
+"Hi team, How can I enable two factor authentication. Please advise.",account,medium
+"Hello, Can I get a receipt for my last payment. Please advise.",billing,medium
+"This is urgent, How can I enable two factor authentication. I am very frustrated.",account,high
+"No rush, My package ORD-1002 has not arrived after two weeks. Appreciate it.",shipping,low
+URGENT: I cannot log in to my account. This is unacceptable.,account,high
+"Hi, How do I change the email address on my account. Please advise.",account,medium
+"Hello, Can I change the delivery address for ORD-1004. Please advise.",shipping,medium
+Critical issue: I received the wrong item in order ORD-1001. I need this fixed today.,shipping,high
+Critical issue: Where is my order ORD-1000. I need this fixed today.,shipping,high
+"Hi, I get error E500 when I try to sync my data. Thanks.",technical,medium
+"Hi, How do I update my profile name. Please advise.",account,medium
+Critical issue: I forgot my password and the reset email never arrives. I need this fixed today.,account,high
+"Hello, I forgot my password and the reset email never arrives. Thanks.",account,medium
+Critical issue: My invoice shows the wrong amount. This is unacceptable.,billing,high
+URGENT: The tracking for ORD-1004 has not updated in days. I need this fixed today.,shipping,high
+Quick question: My account is locked after too many login attempts. Appreciate it.,account,low
+"When you have time, How do I update the credit card on my billing profile. Appreciate it.",billing,low
+"When you have time, The tracking for ORD-1002 has not updated in days. No hurry at all.",shipping,low
+Quick question: The mobile app freezes on the login screen. Thanks in advance!,technical,low
+I was billed after I cancelled my plan.,billing,medium
+Quick question: Can I change the delivery address for ORD-1001. No hurry at all.,shipping,low
+I need help immediately. Can I change the delivery address for ORD-1002. I am very frustrated.,shipping,high
+Critical issue: When will order ORD-1002 be delivered. I need this fixed today.,shipping,high
+I need help immediately. How do I update my profile name. I need this fixed today.,account,high
+Push notifications stopped working on my phone. Please advise.,technical,medium
+"Hi, The tracking for ORD-1001 has not updated in days.",shipping,medium
+When will order ORD-1001 be delivered. Please advise.,shipping,medium
+Where is my order ORD-1003.,shipping,medium
+URGENT: How do I update the credit card on my billing profile. I need this fixed today.,billing,high
+"Hi team, My package ORD-1002 has not arrived after two weeks. Please advise.",shipping,medium
+"Hi team, My invoice shows the wrong amount. Thanks.",billing,medium
+"Hello, Where is my order ORD-1003. Thanks.",shipping,medium
+"Hi team, The tracking for ORD-1002 has not updated in days. Please advise.",shipping,medium
+"No rush, Push notifications stopped working on my phone. No hurry at all.",technical,low
+The dashboard is not loading for me. Thanks.,technical,medium
+"This is urgent, The dashboard is not loading for me. I need this fixed today.",technical,high
+URGENT: My account is locked after too many login attempts. I am very frustrated.,account,high
+"No rush, Please explain the charge of $49 on my invoice. Thanks in advance!",billing,low
+"This is urgent, The dashboard is not loading for me. This is unacceptable.",technical,high
+Exporting to CSV fails with a timeout.,technical,medium
+Quick question: The tracking for ORD-1003 has not updated in days. Appreciate it.,shipping,low
+Quick question: Exporting to CSV fails with a timeout. No hurry at all.,technical,low
+I need help immediately. How do I change the email address on my account. This is unacceptable.,account,high
+"When you have time, How do I update my profile name. Thanks in advance!",account,low
+"Hi, I was billed after I cancelled my plan. Please advise.",billing,medium
+"Hi team, I was charged twice for my Basic subscription.",billing,medium
+"Hi team, How can I enable two factor authentication. Thanks.",account,medium
+"Hi, Push notifications stopped working on my phone. Thanks.",technical,medium
+"Hi team, I received the wrong item in order ORD-1003.",shipping,medium
+"Hi team, My account is locked after too many login attempts. Thanks.",account,medium
+Critical issue: How can I enable two factor authentication. I need this fixed today.,account,high
+"Just curious, I get error E1002 when I try to sync my data. Appreciate it.",technical,low
+"This is urgent, How can I enable two factor authentication. This is unacceptable.",account,high
+URGENT: Can I get a receipt for my last payment. This is unacceptable.,billing,high
+"This is urgent, I cannot log in to my account. I need this fixed today.",account,high
+Quick question: How do I update the credit card on my billing profile. No hurry at all.,billing,low
+"Hi, Where is my order ORD-1002. Thanks.",shipping,medium
+"Hi team, The mobile app freezes on the login screen. Thanks.",technical,medium
+"Hi team, My account is locked after too many login attempts. Please advise.",account,medium
+"No rush, When will order ORD-1000 be delivered. Appreciate it.",shipping,low
+Quick question: How do I update my profile name. No hurry at all.,account,low
+The app crashes every time I open the reports page. Thanks.,technical,medium
+I need help immediately. I received the wrong item in order ORD-1002. I need this fixed today.,shipping,high
+"Just curious, The app crashes every time I open the billing page. No hurry at all.",technical,low
+"Hi team, My invoice shows the wrong amount. Thanks.",billing,medium
+I was billed after I cancelled my plan.,billing,medium
+Critical issue: Where is my order ORD-1000. This is unacceptable.,shipping,high
+"When you have time, The dashboard is not loading for me. Thanks in advance!",technical,low
+"No rush, Push notifications stopped working on my phone. No hurry at all.",technical,low
+"Hello, My invoice shows the wrong amount. Please advise.",billing,medium
+"Hi team, I was billed after I cancelled my plan. Please advise.",billing,medium
+"Hi team, The dashboard is not loading for me. Please advise.",technical,medium
+Critical issue: I was charged twice for my Team subscription. This is unacceptable.,billing,high
+Quick question: I was billed after I cancelled my plan. Appreciate it.,billing,low
+I was charged twice for my Pro subscription. Thanks.,billing,medium
+I need help immediately. The tracking for ORD-1000 has not updated in days. I am very frustrated.,shipping,high
+"When you have time, Please explain the charge of $19 on my invoice. No hurry at all.",billing,low
+"Hello, I forgot my password and the reset email never arrives. Thanks.",account,medium
+"This is urgent, How can I enable two factor authentication. This is unacceptable.",account,high
+Critical issue: The tracking for ORD-1004 has not updated in days. I need this fixed today.,shipping,high
+"When you have time, My invoice shows the wrong amount. No hurry at all.",billing,low
+Critical issue: I forgot my password and the reset email never arrives. This is unacceptable.,account,high
+"Hello, How do I update my profile name.",account,medium
+Quick question: The app crashes every time I open the settings page. No hurry at all.,technical,low
+I need help immediately. Where is my order ORD-1002. I am very frustrated.,shipping,high
+"Hi, I was billed after I cancelled my plan. Thanks.",billing,medium
+"This is urgent, The mobile app freezes on the login screen. I need this fixed today.",technical,high
+"Just curious, How do I change the email address on my account. Thanks in advance!",account,low
+"Hello, I was billed after I cancelled my plan. Thanks.",billing,medium
+"Hi, Can I get a receipt for my last payment.",billing,medium
+"Hi, I was charged twice for my Pro subscription. Thanks.",billing,medium
+I need help immediately. Push notifications stopped working on my phone. I am very frustrated.,technical,high
+"This is urgent, Push notifications stopped working on my phone. I need this fixed today.",technical,high
+"Hi, Please explain the charge of $99 on my invoice.",billing,medium
+"Hi team, Can I change the delivery address for ORD-1002.",shipping,medium
+"Just curious, My account is locked after too many login attempts. Appreciate it.",account,low
+Critical issue: The mobile app freezes on the login screen. This is unacceptable.,technical,high
+"Hello, The app crashes every time I open the reports page. Thanks.",technical,medium
+"Just curious, Exporting to CSV fails with a timeout. Thanks in advance!",technical,low
+"No rush, How do I update the credit card on my billing profile. Appreciate it.",billing,low
+"Hi team, How do I change the email address on my account. Please advise.",account,medium
+How can I enable two factor authentication. Thanks.,account,medium
+"Hi, How do I update my profile name. Please advise.",account,medium
+"Hi, How can I enable two factor authentication. Thanks.",account,medium
+"Hi, The tracking for ORD-1001 has not updated in days. Please advise.",shipping,medium
+"This is urgent, My account is locked after too many login attempts. This is unacceptable.",account,high
+"Hi team, Push notifications stopped working on my phone.",technical,medium
+"Hi, I was charged twice for my Pro subscription.",billing,medium
+Critical issue: I cannot log in to my account. This is unacceptable.,account,high
+"When you have time, Can I get a receipt for my last payment. Appreciate it.",billing,low
+"Hi, How do I update my profile name. Please advise.",account,medium
+Exporting to CSV fails with a timeout. Please advise.,technical,medium
+"When you have time, I received the wrong item in order ORD-1003. Appreciate it.",shipping,low
+Critical issue: I cannot log in to my account. I need this fixed today.,account,high
+I need help immediately. How do I update my profile name. This is unacceptable.,account,high
+"This is urgent, I received the wrong item in order ORD-1001. I need this fixed today.",shipping,high
+"This is urgent, The mobile app freezes on the login screen. I am very frustrated.",technical,high
+Critical issue: My account is locked after too many login attempts. I need this fixed today.,account,high
+"Hello, The tracking for ORD-1003 has not updated in days.",shipping,medium
+"Hi, How do I change the email address on my account. Please advise.",account,medium
+"No rush, The dashboard is not loading for me. No hurry at all.",technical,low
+"Hi team, I forgot my password and the reset email never arrives. Thanks.",account,medium
+"Hello, The tracking for ORD-1003 has not updated in days. Thanks.",shipping,medium
+"Hello, I was billed after I cancelled my plan. Please advise.",billing,medium
